@@ -1,0 +1,58 @@
+h1 {
+  text-align: center;
+  color: #03045e;
+  border: 10px dotted #90e0ef;
+  border-radius: 30px;
+  border-width: medium;
+  font-family: "Times New Roman", Times, serif;
+}
+
+p {
+  font-style: italic;
+  color: #023e8a;
+  font-size: 30;
+}
+
+li {
+  padding-bottom: 10px;
+  color: #0077b6;
+  font-size: 20px;
+}
+
+h2 {
+  padding: 10px;
+  color: #0096c7;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 12px;
+  padding-bottom: 20px;
+}
+.card {
+  margin: 0 auto; /* Added */
+  float: none; /* Added */
+  margin-bottom: 10px; /* Added */
+}
+.parallelogram {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+  height: 70px;
+  transform: skew(20deg);
+  background: #90e0ef;
+}
+
+#goodbye {
+  margin: 0;
+  padding-top: 11px;
+  line-height: 17px;
+  color: #03045e;
+  text-align: center;
+  font-size: 17px;
+  font-family: "Lucida Handwriting", Cursive;
+}
